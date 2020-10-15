@@ -10,4 +10,3 @@
 
 [<img height="31" src="https://beta.deepnote.com/buttons/try-in-a-jupyter-notebook-white.svg">](https://beta.deepnote.com/project/278a6f04-3419-4d21-9134-dbfb94ddb59b)
 
-[<img src="./newbutton.svg">](https://beta.deepnote.com/project/278a6f04-3419-4d21-9134-dbfb94ddb59b)
